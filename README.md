@@ -5,10 +5,15 @@
 - 🌱 I’m currently learning to integrate Scrollytelling frameworks into ReactJS
 - 📫 How to reach me ...marc.orel@fau.de // marc1.orel@outlook.de // www.marcorel.de
 
+<h3>Languages:</h3>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagnificentMarc&hide=html)
 
-Get in touch with me:
-<br></br>
-<a href="mailto:marc1.orel@outlook.de">
+
+
+
+<h3>Contact:</h3>
+<a href="mailto:marc1.orel@outlook.de" width="0px">
 <img src="http://cdn.onlinewebfonts.com/svg/img_237869.png" width="50px" >
 </a>
 <a href="https://www.linkedin.com/in/marc-orel-informatik/">
@@ -17,3 +22,5 @@ Get in touch with me:
 <a href="https://www.xing.com/profile/Marc_Orel3/cv">
 <img src="https://lh3.googleusercontent.com/proxy/rsotWZclmkJparkWmE2icGynmrXHnxxf1Pj7yynBqER5R5dH8QWUBpQM_Yp1BGU8fVKhWzIL" width="50px" href="www.google.de">
 </a>
+
+
