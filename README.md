@@ -10,7 +10,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagnificentMarc&hide=html)
 
 
+<h3>Card: </h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagnificentMarc&hide=stars,prs,issues,contribs&title_color=ffffff&bg_color=30,ff0000,eb3458,eb349e&text_color=ffffff&include_all_commits=true&show_owner=true)
 
 <h3>Contact:</h3>
 <a href="mailto:marc1.orel@outlook.de" width="0px">
