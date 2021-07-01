@@ -3,7 +3,7 @@
 
 ------------
 
-- 🔭 I’m currently working on [my personal website](https://www.marcorel.de)
+- 🔭 I’m currently working on [my personal website](https://www.marcorel.de), e. g. performance optimizations for low-end devices
 - 🤓 I enjoy doing coding challenges on [EntwicklerHeld](https://platform.entwicklerheld.de/publicprofile/67762bcd17d601741b04182b95567d0b)
 - ⚽ I love football (soccer), both as a [player](https://www.fupa.net/player/marc-orel-218593) and as an [under-13 coach](http://www.jfg-neumarkt.com/verein/ansprechpartner/trainer/)
 - 📊 I like accumulating and scraping [data](https://github.com/MagnificentMarc/data_repo)
