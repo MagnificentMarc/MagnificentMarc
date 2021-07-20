@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/marc-orel-informatik" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2662666-2213265.png" alt="marc-orel-informatik" height="50" width="50" /></a>
- <a href="https://www.xing.com/profile/Marc_Orel3/cv" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/rsotWZclmkJparkWmE2icGynmrXHnxxf1Pj7yynBqER5R5dH8QWUBpQM_Yp1BGU8fVKhWzIL" alt="marc-orel-informatik" height="45" width="45" /></a>
+ <a href="https://www.xing.com/profile/Marc_Orel3/cv" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180614/ows/kisspng-xing-logo-social-network-computer-icons-business-logo-social-media-5b22fca60089b3.9161432015290195580022.jpg" alt="marc-orel-informatik" height="45" width="45" /></a>
  <a href="mailto:marc1.orel@outlook.de" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_237869.png" alt="marc-orel-informatik" height="45" width="45" /></a>
 </p> 
 
