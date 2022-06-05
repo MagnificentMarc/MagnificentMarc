@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm MagnificentMarc</h1>
-<h3 align="center">I am a student (Computer Scien Master's @FAU Erlangen), but more importantly an aspiring software developer!</h3>
+<h3 align="center">I am a software developer, based in and around Nuremberg!</h3>
 
 ------------
 
-- 🔭 I’m currently working on [my personal website](https://www.marcorel.de), e. g. performance optimizations for low-end devices
+- 📱 I'm currently working as an native iOS-Developer, using SwiftUI 3.0.
+- 🔭 In my spare time I enjoy working on [my personal website](https://www.marcorel.de)
 - 🤓 I enjoy doing coding challenges on [EntwicklerHeld](https://platform.entwicklerheld.de/publicprofile/67762bcd17d601741b04182b95567d0b)
 - ⚽ I love football (soccer), both as a [player](https://www.fupa.net/player/marc-orel-218593) and as an [under-15's coach](http://www.jfg-neumarkt.com/verein/ansprechpartner/trainer/)
 - 📊 I like accumulating and scraping [data](https://github.com/MagnificentMarc/data_repo)
