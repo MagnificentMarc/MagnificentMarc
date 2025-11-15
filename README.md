@@ -3,11 +3,8 @@
 
 ------------
 
-- 📱 I'm currently working as an native iOS-Developer, using SwiftUI 3.0.
-- 🔭 In my spare time I enjoy working on [my personal website](https://www.marcorel.de)
-- 🤓 I enjoy doing coding challenges on [EntwicklerHeld](https://platform.entwicklerheld.de/publicprofile/67762bcd17d601741b04182b95567d0b)
-- ⚽ I love football (soccer), both as a [player](https://www.fupa.net/player/marc-orel-218593) and as an [under-15's coach](http://www.jfg-neumarkt.com/verein/ansprechpartner/trainer/)
-- 📊 I like accumulating and scraping [data](https://github.com/MagnificentMarc/data_repo)
+- 📱 I'm currently working as Fullstack software engineer.
+
 ------------
 
 <h3 align="center">Connect with me:</h3>
